@@ -31,6 +31,7 @@
 		03AC318029B6B187001B1152 /* MDCViewState.m in Sources */ = {isa = PBXBuildFile; fileRef = DAA4C76518F8B97100F6C4D6 /* MDCViewState.m */; };
 		03AC318529B6B1B7001B1152 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 03AC318429B6B1B7001B1152 /* Foundation.framework */; };
 		03AC318729B6B1BC001B1152 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 03AC318629B6B1BC001B1152 /* UIKit.framework */; };
+		03AC318B29B6B6CB001B1152 /* MDCSwipeToChoose.h in Headers */ = {isa = PBXBuildFile; fileRef = DA0633B118F23EAD009EBE62 /* MDCSwipeToChoose.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -206,6 +207,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				03AC318B29B6B6CB001B1152 /* MDCSwipeToChoose.h in Headers */,
 				03AC316B29B6B152001B1152 /* MDCSwipeToChooseDelegate.h in Headers */,
 				03AC316D29B6B15C001B1152 /* MDCSwipeToChooseView.h in Headers */,
 				03AC316F29B6B163001B1152 /* MDCSwipeToChooseViewOptions.h in Headers */,
