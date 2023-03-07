@@ -22,14 +22,14 @@
 // THE SOFTWARE.
 //
 
-#import <MDCSwipeDirection.h>
+#import "MDCSwipeDirection.h"
 
-#import <MDCSwipeToChooseDelegate.h>
-#import <UIView+MDCSwipeToChoose.h>
-#import <MDCSwipeOptions.h>
+#import "MDCSwipeToChooseDelegate.h"
+#import "UIView+MDCSwipeToChoose.h"
+#import "MDCSwipeOptions.h"
 
-#import <MDCSwipeToChooseView.h>
-#import <MDCSwipeToChooseViewOptions.h>
+#import "MDCSwipeToChooseView.h"
+#import "MDCSwipeToChooseViewOptions.h"
 
-#import <MDCSwipeResult.h>
-#import <MDCPanState.h>
+#import "MDCSwipeResult.h"
+#import "MDCPanState.h"
